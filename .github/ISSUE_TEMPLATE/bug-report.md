@@ -7,25 +7,27 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+### Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+### Steps to Reproduce
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+### Expected Behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Screenshots and Videos
+If applicable, add screenshots or videos to help demonstrate the issue.
 
-**System Information (please complete the following information):**
- - Server OS: [e.g. Ubuntu 20.04, Debian 10, etc]
- - Browser [e.g. chrome, safari]
+### System/Browser Information:
+ - **Installation Type:** [Self-Hosted, Cloud]
+ - **Version:** [ex: 2.5.13.3, 2.6.0, etc]
+ - **Web Browser:** [ex: Chrome, Firefox, Edge, Safari, etc]
+ - **Server OS (Self-Hosted Only):** [ex: Ubuntu 20.04, Debian 10, etc]
 
-**Additional context**
+### Additional context
 Add any other context about the problem here.
